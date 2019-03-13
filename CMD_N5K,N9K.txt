@@ -1,0 +1,17 @@
+enable
+Gws#f762
+sh clock
+sh clock
+sh run
+sh vpc
+sh int des
+sh cdp ne
+sh ver 
+sh env 
+sh inv
+sh vl
+sh ip int br
+sh int trunk
+sh fex
+sh fex detail
+sh processes cpu history

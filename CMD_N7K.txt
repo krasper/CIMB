@@ -1,0 +1,33 @@
+ena
+Gws#f762
+switchto vdc DataCenter
+Sc#94634
+sh clock
+sh run
+sh int des
+show int
+sh cdp ne
+sh ver 
+sh env
+sh ip route 
+sh inv
+sh vl
+sh ip int br
+sh int trunk
+switchback
+switchto vdc otv
+Gws#f762
+sh clock
+sh run
+sh int des
+show int
+sh cdp ne
+sh ver
+sh ip route 
+sh env 
+sh inv
+sh vl
+sh ip int br
+sh int trunk
+switchback
+sh processes cpu history
