@@ -1,0 +1,3 @@
+sh run
+sh int des
+sh cdp ne
