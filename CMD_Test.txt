@@ -1,3 +1,25 @@
-sh run
-sh int des
-sh cdp ne
+show clock
+show running-config
+show ip interface brief
+show interface description
+show interface status
+show interface
+show version
+show inventory
+show module
+show vlan
+Show spanning-tree root
+Show spanning-tree bridge
+show spanning-tree
+show spanning-tree root
+show spanning-tree bridge
+show processes cpu history
+show etherchannel summary
+show ip arp
+show mac address-table
+show mac-address-table
+show cdp neighbor
+show cdp neighbors detail
+show standby brief
+show interface trunk
+show access-list
