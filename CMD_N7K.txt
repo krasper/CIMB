@@ -1,5 +1,9 @@
 ena
 Gws#f762
+!
+!
+!
+!
 switchto vdc DataCenter
 Sc#94634
 sh clock
