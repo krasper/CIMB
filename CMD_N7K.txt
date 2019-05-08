@@ -1,11 +1,7 @@
 ena
 Gws#f762
-!
-!
-!
-!
 switchto vdc DataCenter
-Sc#94634
+Gws#f762
 sh clock
 sh run
 sh int des
