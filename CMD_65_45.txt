@@ -1,5 +1,5 @@
 enable
-P@ssw0rd
+password
 sh clock
 sh run
 sh int des
