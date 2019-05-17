@@ -1,5 +1,5 @@
 enable
-Gws#f762
+P@ssw0rd
 sh clock
 sh clock
 sh run
