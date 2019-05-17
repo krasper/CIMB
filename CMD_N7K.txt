@@ -1,5 +1,5 @@
 ena
-P@ssw0rd
+password
 switchto vdc DataCenter
 Gws#f762
 sh clock
