@@ -1,5 +1,4 @@
 switchto vdc DataCenter
-
 password
 sh clock
 sh run
@@ -15,7 +14,6 @@ sh ip int br
 sh int trunk
 switchback
 switchto vdc otv
-
 password
 sh clock
 sh run
