@@ -1,7 +1,7 @@
 ena
 password
 switchto vdc DataCenter
-Gws#f762
+password
 sh clock
 sh run
 sh int des
@@ -16,7 +16,7 @@ sh ip int br
 sh int trunk
 switchback
 switchto vdc otv
-Gws#f762
+password
 sh clock
 sh run
 sh int des
