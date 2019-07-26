@@ -1,5 +1,3 @@
-enable
-password
 term len 0
 term len 0
 sh clock
