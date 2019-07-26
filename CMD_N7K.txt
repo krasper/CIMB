@@ -1,5 +1,6 @@
 switchto vdc DataCenter
 password
+term len 0
 sh clock
 sh run
 sh int des
@@ -15,6 +16,7 @@ sh int trunk
 switchback
 switchto vdc otv
 password
+term len 0
 sh clock
 sh run
 sh int des
@@ -28,4 +30,5 @@ sh vl
 sh ip int br
 sh int trunk
 switchback
+term len 0
 sh processes cpu history
