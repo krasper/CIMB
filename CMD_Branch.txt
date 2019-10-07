@@ -23,3 +23,4 @@ show cdp neighbors detail
 show standby brief
 show interface trunk
 show access-list
+write
